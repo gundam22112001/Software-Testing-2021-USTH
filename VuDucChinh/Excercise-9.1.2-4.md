@@ -1,4 +1,4 @@
-#Exercise 9.1.2.4
+# Exercise 9.1.2.4
 ###Consider the following BNF:
 ```
 A ::= 0 B | 0 M | 0 B M
