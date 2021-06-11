@@ -1,4 +1,4 @@
-#Excercise 8.2-1
+# Excercise 8.2-1
 ### Use predicates (i) through (iv) to answer the following questions.
 
 - i. f = abc¯+ ¯abc¯
